@@ -1,7 +1,7 @@
 # MP3 YT Downloader
 
 ### Description
-This is a simple tool for downloading audio from YouTube videos and converting them to `.mp3` format. The program fetches audio streams from YouTube and uses `ffmpeg` for post-processing to convert them into high-quality `.mp3` files.
+This is a simple tool for downloading audio from YouTube videos and converting them to `.mp3` format. The program fetches audio streams from YouTube and uses `ffmpeg` for post-processing to convert them into high-quality `.mp3` files `bitrate 192 kbps`.
 
 ### Requirements
 Before running the program, you need to install the following dependencies:
