@@ -18,7 +18,7 @@ Before running the program, you need to install the following dependencies:
 MP3 YT 1.4 by bdzn
 Enter the YouTube link: 'your youtube link with video'
 ```
-* first program will download file as `.mp4` format then it will convert into `.mp3` and delete `.mp4` file
+* First program will download file as `.mp4` format then it will convert into `.mp3` and delete `.mp4` file
   
 The program will download the audio, convert it, and place the `.mp3` file on your desktop.
 
