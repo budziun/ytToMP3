@@ -10,7 +10,7 @@ def sigint_handler(signal, frame):
 signal.signal(signal.SIGINT, sigint_handler)
 
 def main():
-    print("MP3 YT 1.4 by bdzn")
+    print("MP3 YT 1.5 by bdzn")
     link = input("Podaj link: ")
 
     download_path = os.path.join(os.path.expanduser("~"), "Desktop")
