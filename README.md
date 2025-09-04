@@ -1,5 +1,9 @@
 # ytToMP3 - YouTube to MP3 Downloader
+## 📥 Download v2.0
 
+[![Download ytToMP3 v2.0](https://img.shields.io/badge/📥%20Download-ytToMP3%20v2.0-red?style=for-the-badge&logo=download)](https://release-assets.githubusercontent.com/github-production-release-asset/713154502/1f8adf40-c17b-4ec8-a250-7a9860734e81?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-09-04T13%3A54%3A09Z&rscd=attachment%3B+filename%3DytToMP3_v2.0.tar&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-09-04T12%3A53%3A29Z&ske=2025-09-04T13%3A54%3A09Z&sks=b&skv=2018-11-09&sig=wc8E%2F278qDcgcYNzjSGCiclgMRYwB40yoILmSGTzqrk%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc1Njk5MDc0MiwibmJmIjoxNzU2OTkwNDQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.dApwpa7Q8QxwO7WF0qLipRb34De5-4gERbUy68-9iTo&response-content-disposition=attachment%3B%20filename%3DytToMP3_v2.0.tar&response-content-type=application%2Foctet-stream)
+
+---
 ## 🎵 Overview
 **ytToMP3** is a powerful and user-friendly desktop application for downloading high-quality MP3 files from YouTube videos. Built with modern GUI and advanced features, it's the perfect tool for music enthusiasts and content creators.
 
@@ -183,3 +187,4 @@ This project is open source. Feel free to contribute, fork, or suggest improveme
 **Made with ❤️ by [budziun](https://github.com/budziun)**
 
 *Download high-quality music the smart way! 🎵*
+
